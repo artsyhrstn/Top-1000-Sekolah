@@ -18,6 +18,8 @@ Data koordinat yang digunakan dalam mengetahui titik lintang dan bujur pada seti
 
 ## Library dan Tools
 
+<div align="center">
+
 | Tools    | Version |
 |----------|---------|
 | kagglehub| 0.3.10 |
@@ -26,10 +28,12 @@ Data koordinat yang digunakan dalam mengetahui titik lintang dan bujur pada seti
 | os       | -  |
 | requests | 2.32.3 |
 | json     | 2.0.9 |
-| Folium   |0.19.5|
-| opencage   |3.0.4|
-| ArcGis   | 10.8       |
+| Folium   | 0.19.5 |
+| opencage | 3.0.4 |
+| ArcGis   | 10.8   |
 | Python   | 3.12.9 |
+
+</div>
 
 ## Hasil
 
